@@ -4,6 +4,7 @@ images:
 - https://source.unsplash.com/random?bunny&22014
 title: bunny 3
 date: 2022-07-23
+draft: true
 tags:
 - work # homepage
 - archive # all posts
