@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moanrisy Portfolio</title>
-    <link>https://moanrisy.github.io/portfolio/</link>
-    <description>Recent content on Moanrisy Portfolio</description>
+    <title>daily on Moanrisy Portfolio</title>
+    <link>https://moanrisy.github.io/portfolio/tags/daily/</link>
+    <description>Recent content in daily on Moanrisy Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 19:54:47 +0700</lastBuildDate><atom:link href="https://moanrisy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 19:54:47 +0700</lastBuildDate><atom:link href="https://moanrisy.github.io/portfolio/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022-11-22</title>
       <link>https://moanrisy.github.io/portfolio/2022-11-22/</link>
@@ -13,35 +13,6 @@
       
       <guid>https://moanrisy.github.io/portfolio/2022-11-22/</guid>
       <description>Table 1: Clock summary at [2022-11-22 Sel 19:27], for Selasa, November 22, 2022. File Headline Time &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; ALL Total time 8:13 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; inbox.org File time 0:00 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; projects.org File time 7:50 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; Learning coding 6:24 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;Go [6/17] &amp;#xa0; 6:24 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Tasks &amp;#xa0; &amp;#xa0; 6:24 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Learn go with tests 156/493 &amp;#xa0; &amp;#xa0; &amp;#xa0; 6:24 &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;read page 156 (context) - 242 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; 2:38 &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;read page 242 reading files &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; 1:42 &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;read page 263 html templates &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; 2:04 &amp;#xa0; Personal projects 1:26 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;Portfolio [2/2] &amp;#xa0; 1:26 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Tasks &amp;#xa0; &amp;#xa0; 1:26 &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Update portfolio site config &amp;#xa0; &amp;#xa0; &amp;#xa0; 0:40 &amp;#xa0; &amp;#xa0; &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Select the first project to show up in portfolio &amp;#xa0; &amp;#xa0; &amp;#xa0; 0:46 &amp;#xa0; agenda.</description>
-    </item>
-    
-    <item>
-      <title>people 4</title>
-      <link>https://moanrisy.github.io/portfolio/people-4/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/portfolio/people-4/</guid>
-      <description>Markdown You can use Markdown format to write your story.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
-    </item>
-    
-    <item>
-      <title>404</title>
-      <link>https://moanrisy.github.io/portfolio/404.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/portfolio/404.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://moanrisy.github.io/portfolio/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/portfolio/about/</guid>
-      <description>Hello, my name is Mohammad Anton Rizki Syahputra (moanrisy).Contact If you need to contact me for any reason; create an issue or send a mail to moanrisy@gmail.com.</description>
     </item>
     
   </channel>
