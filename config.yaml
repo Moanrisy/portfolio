@@ -62,9 +62,9 @@ menu:
     # - name: people
     #   url: /tags/people/
     #   weight: 2
-    # - name: nature
-    #   url: /tags/nature/
-    #   weight: 3
+    - name: daily
+      url: /tags/daily/
+      weight: 3
     - name: archive
       url: /tags/archive/
       weight: 4
